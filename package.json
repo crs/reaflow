@@ -1,5 +1,6 @@
 {
   "name": "reaflow",
+  "type": "module",
   "version": "5.1.2",
   "description": "Node-based Visualizations for React",
   "scripts": {
